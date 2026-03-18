@@ -1,1 +1,3 @@
-Git Skill 1 notes
+Git Experiment Skill 1
+Learning Git basics
+Bug fix branch update
